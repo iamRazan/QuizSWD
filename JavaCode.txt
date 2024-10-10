@@ -1,5 +1,5 @@
-Name\ Razan Abdulrahman Allehyani
-Id\ 445005897
+//Name\ Razan Abdulrahman Allehyani
+//Id\ 445005897
 //----------------------------------------------------------------------------------------------
 
 // Java code for linearly search x in arr[]. If x
@@ -49,6 +49,7 @@ class LinearSearch {
                         int x = 4;
 
                         int index = search(arr, n, x);
+                        index = index + 1; // Increment the index by 1
 
                         if (index == -1)
 
