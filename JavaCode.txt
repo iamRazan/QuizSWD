@@ -1,3 +1,5 @@
+Name\ Razan Abdulrahman Allehyani
+Id\ 445005897
 //----------------------------------------------------------------------------------------------
 
 // Java code for linearly search x in arr[]. If x
